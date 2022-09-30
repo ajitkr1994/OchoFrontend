@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+This website is deployed here: https://super-valkyrie-230ea3.netlify.app
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
